@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Warbner
-- 👀 I’m interested in React JS and React Native Software Development
-- 🌱 I’m currently learning C# and develop my skills in the ASP.net to pair with React JS framework
-- 💞️ I’m looking to collaborate on React framework projects and or React Native packages
+- 👀 I’m interested in Front End Development With JavaScript and The React Framework
+- 💞️ I’m looking to collaborate on React JS and React Native projects
 - 📫 How to reach me Dev.Warbner@gmail.com
 
 <!---

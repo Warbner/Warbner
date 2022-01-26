@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Warbner
-- 👀 I’m interested in Front End Development With JavaScript and The React Framework
-- 💞️ I’m looking to collaborate on React JS and React Native projects
-- 📫 How to reach me Dev.Warbner@gmail.com
+👋 Hi, I’m Ben!
+
+I'm an aspiring front-end developer, working with a React and SASS based stack. I also have some foundational experience with back-end python frameworks such as Flask and Django!
+I'm a creative problem solver looking for any projects that come my way!
+
+Contact Me:
+  Dev.Warbner@gmail.com
 
 <!---
 Warbner/Warbner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

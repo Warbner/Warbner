@@ -1,7 +1,8 @@
 👋 Hi, I’m Ben!
 
-I'm an aspiring front-end developer, working with a React and SASS based stack. I also have some foundational experience with back-end python frameworks such as Flask and Django!
-I'm a creative problem solver looking for any projects that come my way!
+I'm a full stack software engineer with a proficiency in Javascript. I have experience working with React frontend projects alongside maintaining monolithic systems utilizing a jQuery, NodeJS, Laravel and mySQL stack. 
+In addition to this I also have foundation knowledge in python frameworks such as Flask and Django!
+I'm a creative problem solver looking for any opporutities that come my way!
 
 Contact Me:
   Dev.Warbner@gmail.com
